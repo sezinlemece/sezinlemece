@@ -1,16 +1,26 @@
-## Hi there 👋
+## 💼 Hi, I'm Sezin  
 
-<!--
-**sezinlemece/sezinlemece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Data Analyst and Business Intelligence Specialist** with 15+ years of experience in commercial operations and data-driven decision-making.  
+My focus is on transforming complex data into clear insights that enhance business strategy and operational efficiency.  
 
-Here are some ideas to get you started:
+Skilled in **Power BI, SQL, DAX, Excel, VBA, and Python**, I design end-to-end analytics solutions — from **data extraction via APIs and Google Analytics** to dynamic visualization and automation.  
+My approach blends analytical precision with business intuition to deliver results that matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📊 **Areas of Expertise**  
+- Business Intelligence & Data Modeling  
+- Power BI Dashboard Design & Automation  
+- SQL Query Optimization & Data Cleaning  
+- API & Google Analytics Data Integration  
+- Reporting, KPIs & Data Storytelling  
+
+---
+
+📬 **Let’s Connect**  
+- [LinkedIn](https://www.linkedin.com/in/sezincoskunsu/)  
+- ✉️ [scoskunsu@yahoo.com](mailto:scoskunsu@yahoo.com)  
+
+---
+
+*(Crafted with insight, precision, and purpose — because good data tells the truth.)*
