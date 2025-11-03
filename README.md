@@ -33,7 +33,7 @@ I transform complex data into clear insights and automate analytics — from **A
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sezinlemeceE&show_icons=true&hide_border=true&include_all_commits=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sezinlemece&show_icons=true&hide_border=true&include_all_commits=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezinlemece&layout=compact&hide_border=true" height="150" />
 </p>
 
